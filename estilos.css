@@ -1,0 +1,104 @@
+body, html{
+    width: 100%;
+    height: 100%;
+    background-color: #a3ebdf;
+    margin-top: 0px;
+    margin-left: 1px;
+}
+
+header{
+    background-color: black;
+    margin-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+h1{
+    color: #d7e3e1;
+    text-align: center;
+    font-size: 4rem;
+    position: relative;
+    bottom: 20px;
+}
+nav{
+    background-color: #d7e3e1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 2px;
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    margin-right: 90px;
+    margin-left: 60px;
+    font-weight: lighter;
+}
+
+main{
+    background-color: #d7e3e1;
+    margin-right: 30px;
+    padding-bottom: 10px;
+}
+
+article{
+    background-color: #2e86eb;
+    display: inline-block;
+    width: 950px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-top: 78px;
+}
+
+
+.center{
+    text-align: center;
+    font-size: 3rem;
+    position: relative;
+    bottom: 70px;
+}
+
+.centerp{
+    text-align: center;
+    font-size: 1.5rem;
+    position: relative;
+    bottom: 30px;
+}
+
+
+aside{
+    background-color: rgb(248, 12, 193);
+    display: inline-block;
+    width: 250px;
+    margin-top: 10px;
+    padding-bottom: 24px;
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+form{
+    text-align: center;
+}
+
+button{
+    font-size: 18px;
+}
+
+.fp{
+    background-color: #ffff00;
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-right: 30px;
+}
